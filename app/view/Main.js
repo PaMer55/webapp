@@ -39,7 +39,7 @@ Ext.define('HelloWorld.view.Main', {
 
 	        		   },
 	        		   {
-	        			   html: '<iframe width="1920" height="687" src="//www.youtube.com/embed/n-M-UVjug18" frameborder="0" allowfullscreen></iframe>'
+	        			   html: '<iframe width="640" height="390" src="//www.youtube.com/embed/6UZMsPXYKr8" frameborder="0" allowfullscreen></iframe>'
 	        		   }]
 	        	   },
 	        	   {
@@ -51,11 +51,11 @@ Ext.define('HelloWorld.view.Main', {
 	        		   items: [
 	        		           {
 	        		        	   xtype: 'image',
-	        		        	   src: 'resources/images/pic3.png'
+	        		        	   src: 'resources/images/sencha-touch.png'
 	        		           },
 	        		           {
 	        		        	   xtype: 'image',
-	        		        	   src: 'resources/images/pic2.png'
+	        		        	   src: 'resources/images/touch.png'
 	        		           },
 	        		           {
 	        		        	   xtype: 'image',
@@ -72,11 +72,11 @@ Ext.define('HelloWorld.view.Main', {
 
 	        		   items: [{
 	        			   xtype: 'image',
-	        			   src: 'resources/images/THMLogo.jpg'
+	        			   src: 'resources/images/thm.jpg'
 	        		   },
 	        		   {
 	        			   xtype: 'image',
-	        			   src: 'resources/images/inversity.png'
+	        			   src: 'resources/images/iversity.jpg'
 	        		   },
 	        		   {
 	        			   xtype: 'image',
